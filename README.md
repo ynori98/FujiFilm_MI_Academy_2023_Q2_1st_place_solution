@@ -1,7 +1,7 @@
 # FujiFilm_MI_Academy_2023_Q2_1st_place_solution
 富士フイルムMIアカデミー2023Q2で1位を獲得した際作成したものです。
 
-実際に提出したモデルの作成はlgbm_cv.ipynbで作成しました。
+実際に提出したモデルはlgbm_cv.ipynbで作成しました。
 
 試しにつくったGCNNものせています。
 
